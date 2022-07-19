@@ -9,7 +9,7 @@ function App(props) {
         key: 0,
         q: "How many team members can I invite?",
         a: "You can invite up to 2 additional users on the Free plan. There is no limit on team members for the Premium plan."
-    },
+    },  
     {
         key: 1,
         q: "What is the maximum file upload size?",

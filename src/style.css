@@ -102,11 +102,7 @@ hr {
         opacity: 1;
         transform: translateY(0);
     }
-}   
-
-
-
-
+}
 @media screen and (min-width: 900px) {
     body {
         padding: 0;
@@ -115,6 +111,7 @@ hr {
         justify-content: center;
         align-items: center;
     }
+
     .card {
         display: flex;
         flex-direction: row;

@@ -5,7 +5,6 @@ function Item(props) {
 
     let question = props.obj.q;
     let answer = props.obj.a;
-  
 
     let [answerVisible, setAnswerVisible] = useState(false)
 
