@@ -1,5 +1,7 @@
 # FAQ accordion card - React
 
+Link: https://glittery-pony-d47135.netlify.app/
+
 ![desktop-preview](https://user-images.githubusercontent.com/92965519/179734020-67a6188a-14c1-4eca-ae71-d7c174186154.jpg)
 
 ## The challenge
