@@ -13,7 +13,9 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
+    padding-top: 160px;
+    padding-bottom: 10px;
 }
 
 .heading {
@@ -104,6 +106,13 @@ hr {
 
 
 @media screen and (min-width: 900px) {
+    body {
+        padding: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     .card {
         display: flex;
         flex-direction: row;
