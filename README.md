@@ -1,4 +1,26 @@
-# Getting Started with Create React App
+# FAQ accordion card - React
+
+Link: https://glittery-pony-d47135.netlify.app/
+
+![desktop-preview](https://user-images.githubusercontent.com/92965519/179734020-67a6188a-14c1-4eca-ae71-d7c174186154.jpg)
+
+## The challenge
+
+Your challenge is to build out this FAQ accordion card using React and get it looking as close to the design as possible.
+
+Your users should be able to:
+
+- View the optimal layout for the component depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Hide/Show the answer to a question when the question is clicked
+
+## Where to find everything
+
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+
+The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+
+**Have fun building!** 🚀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
