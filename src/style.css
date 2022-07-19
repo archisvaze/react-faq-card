@@ -47,9 +47,11 @@ body {
     color: #323141;
     transition: 0.3s;
 }
-.question:hover{
+
+.question:hover {
     color: hsl(14, 88%, 65%);
 }
+
 .arrow {
     width: 10px;
     height: 8px;
